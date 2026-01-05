@@ -1,0 +1,2 @@
+# cosmica
+my first repository  !
